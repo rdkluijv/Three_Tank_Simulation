@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <Date value="July 26, 2019 2:12:10 PM" />
+    <Files>
+        <File path="resources/project" value="-1" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/other.type.Label.xml" value="7716e543" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/none.type.Label.xml" value="4434695f" />
+        <File path="resources/project/Root.type.EntryPoints" value="-1" />
+        <File path="resources/project/Root.type.ProjectData" value="-1" />
+        <File path="resources/project/Root.type.ProjectPath" value="-1" />
+        <File path="resources/project/uuid-c6368430-f3db-4b98-88bf-8247b74479ea.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/Three_Tank_Controller.slx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Project.xml" value="c576b26a" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/design.type.Label.xml" value="657f94e3" />
+        <File path="Three_Tank_Common.prj" value="fe84b66d" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/convenience.type.Label.xml" value="9fa19c1e" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/derived.type.Label.xml" value="b32f4cc5" />
+        <File path="resources/project/ProjectData.type.Info.xml" value="ed8f5d7c" />
+        <File path="resources/project/Root.type.Files" value="-1" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category" value="-1" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/artifact.type.Label.xml" value="3a808e07" />
+        <File path="resources/project/Root.type.Categories" value="-1" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/test.type.Label.xml" value="eff7b485" />
+        <File path="resources/project/Root.type.Extensions" value="-1" />
+        <File path="resources/project/Root.type.ProjectPath/5c943ba1-29be-4a31-93ec-f0b23d8128d9.type.Reference.xml" value="23431c7a" />
+        <File path="Three_Tank_Controller.slx" value="eae00475" />
+        <File path="Three_Tank.sldd" value="18bfec3b" />
+        <File path="resources/project/Root.type.Files/Three_Tank.sldd.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category.xml" value="d2dc6b71" />
+        <File path="resources" value="-1" />
+    </Files>
+    <MetadataNode>
+        <path value="Root:type:ProjectData" />
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Artifact" key="Name" />
+                    </node>
+                </path>
+                <node name="Info">
+                    <entry value="Classification" key="Name" />
+                    <entry value="1" key="SingleValued" />
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="None" key="DataType" />
+                </node>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Design" key="Name" />
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Other" key="Name" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="None" key="Name" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Derived" key="Name" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="Three_Tank_Common" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:ProjectPath">
+            <path value="5c943ba1-29be-4a31-93ec-f0b23d8128d9:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:Files">
+            <path value="Three_Tank_Controller.slx:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                        <entry value="FileClassCategory" key="UUID" />
+                    </node>
+                </node>
+            </path>
+            <path value="Three_Tank.sldd:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                        <entry value="FileClassCategory" key="UUID" />
+                    </node>
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints" />
+        <path value="Root:type:Extensions" />
+    </MetadataNode>
+</Info>
